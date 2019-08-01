@@ -1,0 +1,2 @@
+include ':app', ':roundangle_module'
+rootProject.name='RoundAngle'
